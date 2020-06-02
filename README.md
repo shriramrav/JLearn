@@ -43,11 +43,11 @@ Epoch: 1, Duration: [171.967 seconds], Loss: 27322.11853781128
 Epoch: 2, Duration: [169.053 seconds], Loss: 15735.0729208367
 Epoch: 3, Duration: [168.714 seconds], Loss: 13177.855656711854
 ```
-**Test input (Image for clarity):**
+**Test input (image for clarity):**
 
 ![image](https://i.imgur.com/T3iRUl4.png)
 
-**Test output (Used softmax and argMax for clarity):**
+**Test output (argMax for prediction, softmax for confidence):**
 ```
 Prediction: 2, Confidence: 0.7206593891968534
 ```
