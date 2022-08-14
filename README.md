@@ -11,7 +11,7 @@ JLearn is a machine learning library for Java. The library is built with easy se
 import JLearn.*;
 ```
 - Then, to create a sequential model, use the `JLearn.Model` class
--  **Please Note:** The first and last Layers of the model must be the `Flattened` and `Classify` classes to perform proper predictions and Backpropagation
+-  **Please note:** the first and last Layers of the model must be the `Flattened` and `Classify` classes to perform proper predictions and Backpropagation
 
 **Example:**
 ```java
