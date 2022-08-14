@@ -45,9 +45,9 @@ Epoch: 3, Duration: [168.714 seconds], Loss: 13177.855656711854
 ```
 **Test input (image for clarity):**
 
-![image](https://i.imgur.com/T3iRUl4.png)
+![image](https://raw.githubusercontent.com/shriramrav/images/master/jlearn/2img.png)
 
-**Test output (argMax for prediction, softmax for confidence):**
+**Test output (argmax for prediction, softmax for confidence):**
 ```
 Prediction: 2, Confidence: 0.7206593891968534
 ```
