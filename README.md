@@ -1,7 +1,7 @@
 # JLearn
 
 ## Description
-JLearn is a machine learning library for Java. The library is built with easy setup and usage in mind, catering towards those who are interested in machine learning but don't know where to start. Currently, JLearn only supports Deep Learning networks, however, we plan to implement other algorithms such as Convolutional Neural Networks and Genetic Algorithms in the foreseeable future.
+JLearn is a machine learning package for Java. The package is built with easy setup and usage in mind, catering towards those who are interested in machine learning but don't know where to start. Currently, JLearn only supports Multilayer perceptron networks, however, more types of neural networks may be added in the future.
 
 ## Installation & Usage
 - Download this repository and place the **JLearn** package into the source folder of your Java project
