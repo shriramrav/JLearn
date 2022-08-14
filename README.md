@@ -16,9 +16,9 @@ import JLearn.*;
 **Example:**
 ```java
 Model model = new Model(new Layer[] { 
-	new Flattened(784, 200, new int[] { -1, 1 }, new int[] { 0, 0 }),
-	new Layer(200, 80, new int[] { -1, 1 }, new int[] { 0, 0 }),
-	new Classify(80, 10, new int[] { -1, 1 }, new int[] { 0, 0 })
+    new Flattened(784, 200, new int[] { -1, 1 }, new int[] { 0, 0 }),
+    new Layer(200, 80, new int[] { -1, 1 }, new int[] { 0, 0 }),
+    new Classify(80, 10, new int[] { -1, 1 }, new int[] { 0, 0 })
 });
 ```
 - Next, to train the model to fit a dataset, use the `model.train()` method
